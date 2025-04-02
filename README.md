@@ -1,2 +1,3 @@
 # project
-git repository
+Git Repository
+Author- Sneha Kumari
